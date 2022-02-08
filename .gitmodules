@@ -1,0 +1,3 @@
+[submodule "project-configuration"]
+	path = project-configuration
+	url = https://gitea.radium.group/radium/project-configuration

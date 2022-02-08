@@ -1,0 +1,11 @@
+*.pyc
+
+*/
+
+!/app/*
+!/bootstrap/*
+
+!main.py
+!test_app.py
+
+!.gitignore

@@ -1,0 +1,3 @@
+[tool.nitpick]
+
+style = "./project-configuration/nitpick/all.toml"
